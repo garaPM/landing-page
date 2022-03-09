@@ -1,0 +1,70 @@
+h1 {
+  font-family: "Lato", sans-serif;
+  color: #3e5e81;
+  font-size: 32px;
+  letter-spacing: 3px;
+  font-weight: 700px;
+}
+
+h2 {
+  color: #7ece90;
+  font-size: 24px;
+}
+
+p {
+  font-size: 17px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+a {
+  font-size: 16px;
+  text-decoration: none;
+  background-color: #6b72e1;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+
+li {
+  text-decoration: none;
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+.card-white {
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+  padding: 40px;
+  margin: 20px 0;
+  box-shadow: 0px 10px 10px rgb(0, 0, 0);
+}
+
+#introduction a {
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+
+#introduction a:hover {
+  background-color: black;
+  transition: 0.3s;
+  color: white;
+}
+
+.img-circle {
+  width: 100px;
+  border-radius: 50%;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+ul li {
+  display: inline;
+  padding: 10px;
+}

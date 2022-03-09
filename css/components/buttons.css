@@ -1,0 +1,20 @@
+.btn-blue {
+  background-color: blue;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-green {
+  background-color: green;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-green:hover {
+  background-color: red;
+  transition: 0.3s;
+}

@@ -1,0 +1,19 @@
+@media (max-width: 960px) {
+  /* For screen mayor to 960px */
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  /* For screen mayor to 720px*/
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For screen mayor to 540px*/
+  .container {
+    width: 300px;
+  }
+}
